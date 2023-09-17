@@ -1,0 +1,51 @@
+/* Reset some default styles for better consistency */
+body, h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling for contact section */
+#contact {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Styling for work experience and education sections */
+#experience, #education {
+    padding: 20px;
+}
+
+/* Styling for skills section */
+#skills {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Basic list styling */
+ul {
+    list-style-type: none;
+}
+
+/* Styling for list items in experience, education, and skills sections */
+li {
+    margin-bottom: 10px;
+}
+
+/* Links in the header */
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Style links on hover */
+header a:hover {
+    text-decoration: underline;
+}
