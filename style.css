@@ -20,7 +20,9 @@ header {
 
 /* Styling for work experience and education sections */
 #experience, #education {
+    background-color: bisque;
     padding: 20px;
+    text-align: center;
 }
 
 /* Styling for skills section */
@@ -31,7 +33,7 @@ header {
 
 /* Basic list styling */
 ul {
-    list-style-type: none;
+    list-style-type: lower-roman;
 }
 
 /* Styling for list items in experience, education, and skills sections */
@@ -44,6 +46,7 @@ li {
 header a {
     color: #fff;
     text-decoration: none;
+    text-shadow: #3a3838;
 }
 
 /* Style links on hover */
