@@ -17,8 +17,7 @@ header {
     background-color: #3a3838;
     padding: 20px;
     text-align: center;
-    text-wrap: 0px;
-    text-transform: uppercase;
+    color: #f0f0f0;
 }
 
 /* Styling for work experience and education sections */
