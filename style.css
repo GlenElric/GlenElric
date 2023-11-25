@@ -14,7 +14,7 @@ header {
 
 /* Styling for contact section */
 #contact {
-    background-color: #f0f0f0;
+    background-color: #3a3838;
     padding: 20px;
 }
 
@@ -37,6 +37,7 @@ ul {
 /* Styling for list items in experience, education, and skills sections */
 li {
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 /* Links in the header */
@@ -48,4 +49,5 @@ header a {
 /* Style links on hover */
 header a:hover {
     text-decoration: underline;
+    text-transform: uppercase;
 }
