@@ -7,6 +7,7 @@ body, h1, h2, ul, p {
 /* Basic styling for the header */
 header {
     background-image: url("https://media.licdn.com/dms/image/D5603AQF_zlvpa-DnwA/profile-displayphoto-shrink_200_200/0/1692345003615?e=2147483647&v=beta&t=ppsZX9RVP6eVyqbxVYOgjHa6ck1uiVR3P111aUWB4es");
+    background-repeat: none;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -35,7 +36,7 @@ header {
 
 /* Basic list styling */
 ul {
-    list-style-type: lower-roman;
+    list-style-type: disc;
 }
 
 /* Styling for list items in experience, education, and skills sections */
