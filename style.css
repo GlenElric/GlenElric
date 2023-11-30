@@ -20,23 +20,23 @@ header {
     padding: 20px;
 }
 
-nav, .nav-links{
+nav, .nav-links {
     display: flex;
 }
 
-nav{
+nav {
     justify-content: space-around;
     align-items: center ;
     height: 17vh;
 }
 
-.nav-links{
+.nav-links {
      gap: 2rem;
     list-style: none;
     font-size: 2.5rem;
 }
 
-a{
+a {
     color:black;
     text-decoration: none;
     text-decoration-color: white;
@@ -49,57 +49,34 @@ a:hover {
     text-decoration-color: rgb(181, 181, 181);
 }
 
-.logo{
-    font-size: 2.5rem;
+.logo {
+    font-size: 2rem;
 }
 
-.logo:hover{
+.logo:hover {
     cursor: default;
 }
 
+/*hambuger navigation*/
 
-#contact {
-    background-color: #080808;
-    padding: 20px;
-    text-align: center;
-    color: #f0f0f0;
+#hamburger-nav {
+    display: none;
 }
 
-/* Styling for work experience and education sections */
-#experience, #education {
-    background-color: rgb(9, 9, 9);
-    padding: 20px;
-    text-align: center;
-    color: #f0f0f0;
+.hamburger-menu {
+    position:relative;
+    display: inline-block;
 }
 
-/* Styling for skills section */
-#skills {
-    background-color: rgb(9, 9, 9);
-    padding: 20px;
-    color: #fff;
+.hamburger-icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 24px;
+    width: 30px;
+    cursor: pointer;
 }
 
-#experience{
-    background-color: rgb(7, 7, 7);
-    padding: 20px;
-    text-align: center;
-    text-decoration: solid;
-    color: #f0f0f0;
-}
-
-/* Basic list styling */
-ul {
-    list-style-type: disc;
-}
-
-/* Styling for list items in experience, education, and skills sections */
-li {
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-/* Links in the header */
  a , .btn {
     transition: all 300ms ease;
     color: black;
