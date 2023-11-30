@@ -30,8 +30,15 @@ header {
 
 /* Styling for skills section */
 #skills {
-    background-color: #f0f0f0;
+    background-color: bisque;
     padding: 20px;
+}
+
+#experience{
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    text-decoration: solid;
 }
 
 /* Basic list styling */
