@@ -2,11 +2,11 @@
 body, h1, h2, ul, p {
     margin: 0;
     padding: 0;
+    background-image: url("https://media.licdn.com/dms/image/D5603AQF_zlvpa-DnwA/profile-displayphoto-shrink_200_200/0/1692345003615?e=2147483647&v=beta&t=ppsZX9RVP6eVyqbxVYOgjHa6ck1uiVR3P111aUWB4es");
 }
 
 /* Basic styling for the header */
 header {
-    background-image: url("https://media.licdn.com/dms/image/D5603AQF_zlvpa-DnwA/profile-displayphoto-shrink_200_200/0/1692345003615?e=2147483647&v=beta&t=ppsZX9RVP6eVyqbxVYOgjHa6ck1uiVR3P111aUWB4es");
     font: caption;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #070707;
