@@ -7,15 +7,16 @@ body, h1, h2, ul, p {
 /* Basic styling for the header */
 header {
     background-image: url("https://media.licdn.com/dms/image/D5603AQF_zlvpa-DnwA/profile-displayphoto-shrink_200_200/0/1692345003615?e=2147483647&v=beta&t=ppsZX9RVP6eVyqbxVYOgjHa6ck1uiVR3P111aUWB4es");
-    background-repeat: none;
-    color: #fff;
+    font: caption;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #070707;
     text-align: center;
     padding: 20px;
 }
 
 /* Styling for contact section */
 #contact {
-    background-color: #3a3838;
+    background-color: #080808;
     padding: 20px;
     text-align: center;
     color: #f0f0f0;
@@ -23,22 +24,25 @@ header {
 
 /* Styling for work experience and education sections */
 #experience, #education {
-    background-color: bisque;
+    background-color: rgb(9, 9, 9);
     padding: 20px;
     text-align: center;
+    color: #f0f0f0;
 }
 
 /* Styling for skills section */
 #skills {
-    background-color: bisque;
+    background-color: rgb(9, 9, 9);
     padding: 20px;
+    color: #fff;
 }
 
 #experience{
-    background-color: bisque;
+    background-color: rgb(7, 7, 7);
     padding: 20px;
     text-align: center;
     text-decoration: solid;
+    color: #f0f0f0;
 }
 
 /* Basic list styling */
