@@ -357,7 +357,7 @@ section {
   display: flex;;
   text-align: initial;
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-direction: column;
   gap: 2.5rem;
   justify-content: space-between;
 }
@@ -367,6 +367,8 @@ article {
   width: 10rem;
   justify-content: space-between;
   gap: 0.5rem;
+  margin-left: 90px;
+  margin-right: 20px;
 }
 
 article .icon {
