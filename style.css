@@ -9,6 +9,10 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-size: 50px 50px;
+  background-image: 
+    linear-gradient(to right, grey 1px, transparent 1px),
+    linear-gradient(to bottom, grey 1px, transparent 1px);
 }
 
 html {
@@ -98,6 +102,8 @@ a:hover {
   top: 100%;
   right: 0;
   background-color: white;
+  border: 2px solid rgb(163, 163, 163); 
+  border-radius: 20px;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
@@ -171,15 +177,12 @@ section {
 
 .section__pic-container {
   display: flex;
-  align-items: left;
   height: 400px;
-  width: 200px;
-  margin: 1px;
+  width: max-content;
 }
 
 .section__text {
   align-self: center;
-  text-align: center;
 }
 
 .section__text p {
@@ -192,6 +195,9 @@ section {
 
 .profile-pic {
   border-radius: 1rem;
+  width: 300px; /* specify the width */
+  height: 300px; /* specify the height */
+  object-fit: cover;
 }
 
 .section__text__p2 {
@@ -321,6 +327,12 @@ section {
   align-items: left;
 }
 
+.text-container {
+  border: 2px solid rgb(163, 163, 163) ;
+  border-radius: 30px;
+  padding: 10px;
+  background-color: white;
+}
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -332,6 +344,7 @@ section {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
+  justify-content: center;
 }
 
 .experience-details-container {
@@ -341,18 +354,18 @@ section {
 }
 
 .article-container {
-  display: flex;
+  display: flex;;
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
+  justify-content: space-between;
   gap: 0.5rem;
 }
 
@@ -405,6 +418,7 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+  background-color: white;
 }
 
 .contact-info-container {
@@ -417,6 +431,7 @@ article .icon {
 
 .contact-info-container p {
   font-size: larger;
+  background-color: white;
 }
 
 .contact-icon {
