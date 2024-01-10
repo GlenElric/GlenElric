@@ -13,6 +13,7 @@ body {
   background-image: 
     linear-gradient(to right, grey 1px, transparent 1px),
     linear-gradient(to bottom, grey 1px, transparent 1px);
+    background: linear-gradient(to right, #f6cfbe ,#b9dcf2);
 }
 
 html {
@@ -195,6 +196,7 @@ section {
 
 .profile-pic {
   border-radius: 1rem;
+  padding: 10px,10px;
   width: 300px; /* specify the width */
   height: 300px; /* specify the height */
   object-fit: cover;
