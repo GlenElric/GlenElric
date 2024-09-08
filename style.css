@@ -7,13 +7,12 @@
   padding: 0;
 }
 
+
 body {
   font-family: "Poppins", sans-serif;
   background-size: 50px 50px;
-  background-image: 
-    linear-gradient(to right, grey 1px, transparent 1px),
-    linear-gradient(to bottom, grey 1px, transparent 1px);
-    background: linear-gradient(to right, #f6cfbe ,#b9dcf2);
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+  background-attachment: fixed;
 }
 
 html {
