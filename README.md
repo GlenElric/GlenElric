@@ -107,5 +107,3 @@ Welcome to my GitHub! I'm deeply passionate about **Artificial Intelligence**, *
 - **Email:** glenelricfernandes@gmail.com
 
 ---
-
-*Let's build something innovative together! 🚀*
