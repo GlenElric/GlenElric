@@ -43,26 +43,49 @@ Welcome to my GitHub! I'm deeply passionate about **Artificial Intelligence**, *
 
 ---
 
-## 🛠️ Featured Project: Agriscrow
+## 🛠️ Featured Projects
 
-**Agriscrow** is a decentralized agricultural marketplace built on the TON blockchain, connecting farmers, buyers, and equipment owners in a secure and transparent ecosystem.
+### Agriscrow
 
-**Key Features:**
-- **Secure Escrow System:** Smart contract-based escrow for safe, transparent transactions
-- **TON Integration:** Native cryptocurrency payments using TON
-- **Multi-User Roles:** Support for farmers, buyers, landlords, and renters
-- **Equipment Rental:** Platform for agricultural equipment rental
-- **Community Features:** Discussion forums and knowledge sharing
-- **Real-time Updates:** Live transaction and market data
-- **Responsive Design:** Mobile-first interface with Tailwind CSS
+**Decentralized Agricultural Marketplace**  
+*Built on the TON blockchain*
 
-**Tech Stack:**
-- **Frontend:** React 18, TypeScript, Vite, Tailwind CSS, TON Connect
-- **Backend:** Flask (Python), SQLite
-- **Smart Contracts:** TON Blockchain, TON Core SDK, Tact
+- **Key Features:**
+  - Secure smart contract-based escrow system
+  - Native TON cryptocurrency payments
+  - Multi-user roles: farmers, buyers, landlords, renters
+  - Equipment rental platform
+  - Community forums and knowledge sharing
+  - Real-time transaction and market data
+  - Responsive, mobile-first interface with Tailwind CSS
+- **Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, TON Connect, Flask, SQLite, TON Blockchain, TON Core SDK, Tact
+- **Achievement:** 🏆 Runner Up, Agricultural Innovation Category at SJEC Premiere Hackathon 2023
 
-**Achievement:**  
-🏆 *Runner Up, Agricultural Innovation Category* at SJEC Premiere Hackathon 2023
+---
+
+### SleuthAI
+
+**OSINT-Based Law Enforcement Tool**
+
+- **Key Features:**
+  - Secure backend infrastructure integrating multiple data sources
+  - Advanced data correlation algorithms
+  - Reduced misinformation and errors in digital footprint mapping
+  - Enhanced cybersecurity measures for law enforcement
+- **Tech Stack:** Python, Flask, JavaScript, HTML5, CSS3
+- **Achievement:** 🏆 Runner Up, OSINT Track at CIDeCode Hackathon 2024 (PES University)
+
+---
+
+### Knowledge Distiller
+
+**AI-Driven Study Assistant**
+
+- **Key Features:**
+  - Flask-based application integrating OCR, NLP (SpaCy, NLTK), and Google Generative AI API
+  - Automated summarization and adaptive learning insights
+  - Improved knowledge extraction efficiency by 40%
+- **Tech Stack:** Python, Flask, SpaCy, NLTK, Google Generative AI API
 
 ---
 
@@ -86,4 +109,3 @@ Welcome to my GitHub! I'm deeply passionate about **Artificial Intelligence**, *
 ---
 
 *Let's build something innovative together! 🚀*
-
