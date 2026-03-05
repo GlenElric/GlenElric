@@ -104,6 +104,6 @@ Welcome to my GitHub! I'm deeply passionate about **Artificial Intelligence**, *
 
 - **GitHub:** [github.com/GlenElricFernandes](https://github.com/GlenElric)
 - **LinkedIn:** [linkedin.com/in/glen-elric-fernandes](https://linkedin.com/in/glen-elric-fernandes)
-- **Email:** glenelricfernandes@gmail.com
+- **Email:** <glenelricfernandes@gmail.com>
 
 ---
