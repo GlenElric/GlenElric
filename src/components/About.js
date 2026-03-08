@@ -49,13 +49,13 @@ export default function About() {
           </p>
           <div className="stats-row">
             <div className="stat-item reveal" style={{ transitionDelay: "0.15s" }}>
-              <div className="stat-num" data-count="7">
+              <div className="stat-num" data-count="6">
                 0
               </div>
               <div className="stat-label">Projects</div>
             </div>
             <div className="stat-item reveal" style={{ transitionDelay: "0.2s" }}>
-              <div className="stat-num" data-count="3">
+              <div className="stat-num" data-count="4">
                 0
               </div>
               <div className="stat-label">Hackathons</div>
