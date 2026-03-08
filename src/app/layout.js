@@ -11,9 +11,10 @@ export const metadata = {
     "Portfolio",
     "AI",
     "Full Stack Developer",
+    "AI/ML Engineer"
   ],
   openGraph: {
-    title: "Glen Elric — Data Science Engineer",
+    title: "Glen Elric -Data Science Engineer",
     description:
       "Computer Science & Data Science student building intelligent systems through code and data.",
     url: "https://www.glenelric.space",

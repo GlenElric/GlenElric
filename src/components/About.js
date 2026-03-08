@@ -44,7 +44,7 @@ export default function About() {
           <p className="reveal" style={{ transitionDelay: "0.1s" }}>
             I&apos;m Glen Elric Fernandes, a Computer Science and Data Science
             student at St. Joseph Engineering College, Mangaluru. I specialize in
-            machine learning, data analytics, and AI-powered applications — turning
+            machine learning, data analytics, and AI-powered applications , turning
             raw data into intelligent, real-world systems.
           </p>
           <div className="stats-row">

@@ -2,7 +2,7 @@
 
 const experiences = [
   {
-    year: "Mar – Jun 2025",
+    year: "Mar 2025 – Current",
     type: "Internship",
     title: "AI Research Intern",
     org: "CloudxLab",
